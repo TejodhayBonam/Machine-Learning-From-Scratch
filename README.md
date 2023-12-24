@@ -122,9 +122,6 @@ predictions = knn.predict(X_test)
 
 If you find any issues, bugs, or ways to improve the implementations, please feel free to open an issue or pull request.
 
-## Contact
-
-By <a href="https://www.linkedin.com/in/aymane-maghouti/" target="_blank">Aymane Maghouti</a><br>
 
 
 
